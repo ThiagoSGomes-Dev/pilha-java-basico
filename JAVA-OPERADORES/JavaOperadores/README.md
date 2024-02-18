@@ -15,4 +15,4 @@
 
 **Saída dos Inteiros:** - Utilização de comandos de saída (por exemplo, `System.out.println`) para imprimir os inteiros um abaixo do outro.
 
-**Conclusão:** - Recapitulação do processo de resolução. - Ênfase na importância de entender o código de exemplo para a implementação bem-sucedida.
+**Conclusão:** - Recapitulação do processo de resolução. - Ênfase na importância de entender o código de exemplo e diminuir a verbosidade do exemplo para a implementação bem-sucedida.
