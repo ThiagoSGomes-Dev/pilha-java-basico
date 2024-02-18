@@ -1,18 +1,18 @@
-## Getting Started
+# Título: Resolução do Desafio de Entrada e Saída em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Breve descrição do desafio:
 
-## Folder Structure
+- Descrição breve do desafio.
+- Abordagem inicial: leitura do exemplo de código fornecido.
 
-The workspace contains two folders by default, where:
+## Passos para Resolução:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Leitura e Observação do Código de Exemplo:** - Início da explicação detalhada do processo. - Leitura e compreensão do código fornecido. - Destaque para a utilização da classe Scanner para entrada de dados.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Entendimento do Desafio:** - Identificação do objetivo do desafio: passar 3 entradas de valores inteiros e imprimir três inteiros como saída. - Mencionar a necessidade de utilizar apenas a leitura de inteiros e descartar a leitura de Strings.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Implementação:** - Declaração de variáveis para armazenar os três inteiros. - Utilização do método `nextInt` do objeto Scanner para a leitura dos inteiros. - Fechamento do objeto Scanner com `scanner.close()`.
 
-## Dependency Management
+**Saída dos Inteiros:** - Utilização de comandos de saída (por exemplo, `System.out.println`) para imprimir os inteiros um abaixo do outro.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Conclusão:** - Recapitulação do processo de resolução. - Ênfase na importância de entender o código de exemplo para a implementação bem-sucedida.
